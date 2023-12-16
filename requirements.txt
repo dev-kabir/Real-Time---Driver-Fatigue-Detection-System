@@ -1,0 +1,5 @@
+opencv-python>=4.5.3
+dlib>=19.22.0
+numpy>=1.21.2
+imutils>=0.5.4
+pygame>=2.0.1
